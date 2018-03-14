@@ -1,5 +1,5 @@
 FROM linuxserver/baseimage
-MAINTAINER LinuxServer.io <ironicbadger@linuxserver.io>
+MAINTAINER carlba <genzorg@gmail.com>
 
 ENV APTLIST="snapraid python2.7 git"
 
